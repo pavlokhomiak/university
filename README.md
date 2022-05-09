@@ -7,6 +7,6 @@ This is university application with console interface. For run application from 
    mvn spring-boot:run -Dspring-boot.run
 3. Enjoy
 
-![alt text](https://postimg.cc/34swwCz1)
+![alt text](https://freeimage.host/i/WW7ESj)
 
-![alt text](https://i.postimg.cc/Lgj8ggpp/2.png)
+![alt text](https://freeimage.host/i/WW71cb)
